@@ -1,6 +1,6 @@
 # Olá 🙋‍♂️ Meu nome é Ramon!!
 # 💫 Sobre mim:
-- 👋 Sou um estudante entusiasta na área de dados e finanças, dedico grande parte do meu tempo de estudos à especialização em dados,
+- 👋 Sou um estudante entusiasta na área de dados, dedico grande parte do meu tempo de estudos à especialização em dados,
   tenho fortes interesses pela área, e aqui estarei postando meu progresso e desenvolvimento de estudos pela área de dados
 
 
