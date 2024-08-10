@@ -1,8 +1,12 @@
-# Olá 🙋‍♂️ Meu nome é Ramon!!
-# 💫 Sobre mim:
-- 👋 Sou um estudante entusiasta na área de dados, dedico grande parte do meu tempo de estudos à especialização em dados,
-  tenho fortes interesses pela área, e aqui estarei postando meu progresso e desenvolvimento de estudos pela área de dados
+<h1 align="center">Olá! 👋 Prazer, sou o Ramon!</h1>
+<h3 align="center">Este é meu repositório de Análise de dados.</h3>
 
+<h2 align="left">🗨 Sobre mim:</h2>
+
+ - 👨‍🎓 Estou cursando Analise e Desenvolvimento de Sistemas
+ - 👨‍💻 Comecei minha carreira na área da T.I em 2022. Possuo experiência com suporte tecnico de 1 ano e 4 meses
+ - 📊 Atualmente estou estagiando em Inteligencia comercial.
+ - 🔭 No momeno estou focado nas áreas de Análise e Ciência de Dados
 
 
 # 💻 Habilidades Tecnicas:
@@ -18,7 +22,7 @@
   <h2 align="left">🌐 Redes</h2>
 <div style="display: inline_block">
  <p align="left">
- <a href="https://linkedin.com/in/ramon-oliveiraa359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquewfranco" height="30" width="40" /></a>
+ <a href="www.linkedin.com/in/ramonoliveira359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramonoliveira359" height="30" width="40" /></a>
  <a href="https://medium.com/@ramon.oliveiraa359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramon.oliveiraa359" height="30" width="40" /></a>
  </p>
 </div> 
